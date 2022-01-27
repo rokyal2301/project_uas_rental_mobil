@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  background-color: rgb(245, 246, 248);
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  color: black;
+}
+.form-container-a {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 70vw;
+  height: 550px;
+  transform: translate(-50%, -50%);
+  border-radius: 15px;
+  box-shadow: rgb(87, 55, 55) 2px 2px 5px 0px;
+  padding: 30px 100px;
+  background-color: blanchedalmond;
+}
